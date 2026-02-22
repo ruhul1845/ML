@@ -1,0 +1,1 @@
+{"name":"Local: gcd","url":"/home/ruhul/Documents/ML/gcd.c","tests":[{"id":1771265536895,"input":"36 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ruhul/Documents/ML/gcd.c","group":"local","local":true}
